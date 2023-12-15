@@ -1,0 +1,9 @@
+.git
+.gitignore
+build/
+dist/
+logs/
+tests/
+
+Dockerfile
+
